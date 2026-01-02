@@ -9,17 +9,6 @@ __pycache__/
 *$py.class
 *.so
 
-# IDE
-.vscode/
-.idea/
-
-# Jupyter
-.ipynb_checkpoints/
-
 # OS
 .DS_Store
 Thumbs.db
-
-# Temporary
-*.tmp
-*.temp
