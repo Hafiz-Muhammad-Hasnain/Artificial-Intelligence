@@ -1,0 +1,14 @@
+# Local dataset config for Ultralytics YOLOv8
+# Using absolute paths for Windows compatibility
+
+names:
+  - Apple
+  - Banana
+  - Grape
+  - Orange
+  - Pineapple
+  - Watermelon
+nc: 6
+train: D:/AI/Project/archive/Fruits-detection/train/images
+val: D:/AI/Project/archive/Fruits-detection/valid/images
+test: D:/AI/Project/archive/Fruits-detection/test/images
