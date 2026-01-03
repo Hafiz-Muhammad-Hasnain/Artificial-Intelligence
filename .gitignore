@@ -12,3 +12,14 @@ __pycache__/
 # OS
 .DS_Store
 Thumbs.db
+
+# Archive folder
+archive/
+
+# Dataset folders (images and labels)
+**/train/images/
+**/train/labels/
+**/test/images/
+**/test/labels/
+**/valid/images/
+**/valid/labels/
